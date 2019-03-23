@@ -111,4 +111,4 @@ page.css('div#listing_ajax_container .col-md-6').collect do |place|
 
 # generate a json file from  array and save it.
 json = JSON.pretty_generate(properties)
-File.open("mm_immo_data.json", 'w') { |file| file.write(json) }
+File.open("lib/assets/mm_immo_data.json", 'w') { |file| file.write(json) }
