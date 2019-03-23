@@ -19,10 +19,10 @@ require 'json'
 # load page to scrap out with large criterias to scap as munch as possible, VPN could be an option here
 page = Nokogiri::HTML(open("https://www.morissimmobilier.com/recherche-immobiliere-avancee/?advanced_city=&surface-min=0&nb-chambres-min=0&budget-max=5000000"))
 
-propierties = []
+properties = []
 
 # selects DOM elements and collects data
-# unique identifier, title, link, price, size in sqm, # rooms, # beddings, offer type, agent and pictures.
+# unique identifier, title, link, price, size in sqm, # rooms, # beddings, offer type, agency and pictures.
 page.css('div#listing_ajax_container .col-md-6').collect do |place|
     id = place.attr('data-listid').strip.to_i
     title = place.css('div h4').text.strip.downcase
@@ -34,8 +34,8 @@ page.css('div#listing_ajax_container .col-md-6').collect do |place|
 
     # mind propierty _unit_type4 which could be subject to change
     offer_type = place.css('div div.ribbon-inside').text
-    area =  place.css('div div.property_address_type4 span:first-child').text.gsub(/[\s,]/ ,"") 
-    agent = place.css('div div.property_agent_wrapper').text.split(/ |\_/).map(&:capitalize).join(" ").strip # cannot remove two spaces ?
+    district_area =  place.css('div div.property_address_type4 span:first-child').text.gsub(/[\s,]/ ,"") 
+    agency = place.css('div div.property_agent_wrapper').text.split(/ |\_/).map(&:capitalize).join(" ").strip # cannot remove two spaces ?
     # loop trough carousel to get images
     images = []
     page.css('div.carousel').collect do |img|
@@ -44,8 +44,44 @@ page.css('div#listing_ajax_container .col-md-6').collect do |place|
       )
     end
 
+    #
+      got_additional_data = false
+    # go to corresponding view and scrap additionnal data
+    unless url.empty?
+      offer_html = open(url)
+      
+      sleep 1 until offer_html
+      
+      offer = Nokogiri::HTML(offer_html)
+      # get pageviews, description, energy score, date of construction
+      offer_view_count =  offer.css('div.full_width_prop div.no_views').text.to_i
+      full_description = offer.at('div.wpestate_property_description p').text.strip.downcase
+
+      # optional fields, sometimes empty..
+      if offer.at('div#collapseOne strong:contains("Classe énergétique:")')
+        energy_ratio = offer.at('div#collapseOne strong:contains("Classe énergétique:")').next.text.strip
+      else 
+      energy_ratio = nil
+      end
+
+      if offer.at('div#collapseOne strong:contains("Année Construction:")')
+        date_of_construction = offer.at('div#collapseOne strong:contains("Année Construction:")').next.text.to_i
+        # convert to db datetime format
+        date_of_construction = Time.new(date_of_construction)
+      else 
+        date_of_construction.to_i = nil
+      end
+
+      # go to next offer
+      got_additional_data = true
+    else
+      got_additional_data = true
+  end
+
+  sleep 1 until got_additional_data == true
+
     # push into an array
-     propierties.push(
+     properties.push(
     id: id,
     title: title,
     url: url,
@@ -55,21 +91,24 @@ page.css('div#listing_ajax_container .col-md-6').collect do |place|
     roomsCount: rooms_count,
     bedrooms: bedrooms,
     offerType: offer_type,
-    districtArea: area,
-    agency: agent
-  )
-    # TODO iteration 2 
-    # get inside each offer to retrieve VIEWCONT and tag them as hot if 0
-    # and energy class, is elevator available, regex avenue/rue/boulevard/impasse to get an area on map 
-    
-    # MAYBE iteration 2
+    districtArea: district_area,
+    fullDescription: full_description,
+    energyRatio: energy_ratio,
+    constructionDate:date_of_construction,
+    offerViewCount: offer_view_count,
+    agency: agency,
+  ) 
+  puts "Scrapped offer n°#{id}"
+    # TODO iteration 2
     # scrap five last pages instead of one to get 30 * 5 results on each pass
 
+    # TODO iteration 3 
+    # is elevator available, regex avenue/rue/boulevard/impasse to get an area lat lng with google Place API 
+   
   end
 
-  # 30 items by page
-  puts "Scrapped #{propierties.length} propierties"
+  puts "Scrapped #{properties.length} properties"
 
 # generate a json file from  array and save it.
-json = JSON.pretty_generate(propierties)
+json = JSON.pretty_generate(properties)
 File.open("mm_immo_data.json", 'w') { |file| file.write(json) }
