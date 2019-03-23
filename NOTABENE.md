@@ -8,7 +8,7 @@ rails g scaffold ClassfieldImage classfield:reference
 
 # generate uml pdf
 
-bundle exec erd
+bundle exec erd --title='Dreamcatcher' --filetype=png --filename='uml'
 
 <!-- "id": 24876,
     "title": "appartement – 2 pièces – paris 1...",

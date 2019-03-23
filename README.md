@@ -28,3 +28,7 @@ $ rails s
 ```
 $ open -a "Google Chrome" http://localhost:3000
 ```
+
+## UML
+
+![](/erd.png)
