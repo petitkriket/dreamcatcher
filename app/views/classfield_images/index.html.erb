@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Classfield Images</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Classfield</th>
+      <th>Url</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @classfield_images.each do |classfield_image| %>
+      <tr>
+        <td><%= classfield_image.classfield %></td>
+        <td><%= classfield_image.url %></td>
+        <td><%= link_to 'Show', classfield_image %></td>
+        <td><%= link_to 'Edit', edit_classfield_image_path(classfield_image) %></td>
+        <td><%= link_to 'Destroy', classfield_image, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Classfield Image', new_classfield_image_path %>

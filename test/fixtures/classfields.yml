@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  offer_id: MyString
+  url: MyString
+  price: 1.5
+  size: 1.5
+  rooms_count: 1
+  bedrooms: 
+  offer_type: MyString
+  district_area: MyString
+  full_description: MyText
+  energy_ratio: MyString
+  construction_date: 2019-03-23 18:23:48
+  offer_view_count: 1
+  agency: MyString
+  origin: MyString
+
+two:
+  offer_id: MyString
+  url: MyString
+  price: 1.5
+  size: 1.5
+  rooms_count: 1
+  bedrooms: 
+  offer_type: MyString
+  district_area: MyString
+  full_description: MyText
+  energy_ratio: MyString
+  construction_date: 2019-03-23 18:23:48
+  offer_view_count: 1
+  agency: MyString
+  origin: MyString

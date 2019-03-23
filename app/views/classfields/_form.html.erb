@@ -1,0 +1,87 @@
+<%= form_with(model: classfield, local: true) do |form| %>
+  <% if classfield.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(classfield.errors.count, "error") %> prohibited this classfield from being saved:</h2>
+
+      <ul>
+      <% classfield.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :offer_id %>
+    <%= form.text_field :offer_id %>
+  </div>
+
+  <div class="field">
+    <%= form.label :url %>
+    <%= form.text_field :url %>
+  </div>
+
+  <div class="field">
+    <%= form.label :price %>
+    <%= form.text_field :price %>
+  </div>
+
+  <div class="field">
+    <%= form.label :size %>
+    <%= form.text_field :size %>
+  </div>
+
+  <div class="field">
+    <%= form.label :rooms_count %>
+    <%= form.number_field :rooms_count %>
+  </div>
+
+  <div class="field">
+    <%= form.label :bedrooms %>
+    <%= form.text_field :bedrooms %>
+  </div>
+
+  <div class="field">
+    <%= form.label :offer_type %>
+    <%= form.text_field :offer_type %>
+  </div>
+
+  <div class="field">
+    <%= form.label :district_area %>
+    <%= form.text_field :district_area %>
+  </div>
+
+  <div class="field">
+    <%= form.label :full_description %>
+    <%= form.text_area :full_description %>
+  </div>
+
+  <div class="field">
+    <%= form.label :energy_ratio %>
+    <%= form.text_field :energy_ratio %>
+  </div>
+
+  <div class="field">
+    <%= form.label :construction_date %>
+    <%= form.datetime_select :construction_date %>
+  </div>
+
+  <div class="field">
+    <%= form.label :offer_view_count %>
+    <%= form.number_field :offer_view_count %>
+  </div>
+
+  <div class="field">
+    <%= form.label :agency %>
+    <%= form.text_field :agency %>
+  </div>
+
+  <div class="field">
+    <%= form.label :origin %>
+    <%= form.text_field :origin %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>
