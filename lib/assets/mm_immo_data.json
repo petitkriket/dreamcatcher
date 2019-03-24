@@ -1,11 +1,12 @@
 [
   {
-    "offerId": 24940,
-    "title": "appartement dernier étage",
-    "url": "https://www.morissimmobilier.com/achat-appartement/appartement-a-vendre-5-pieces-106m2-montreuil-93100-moriss-immobilier/",
-    "price": 785000,
-    "size": 106,
+    "offerId": 24953,
+    "title": "appartement de 4 pieces de 80 m2 + 14 m2 de ...",
+    "url": "https://www.morissimmobilier.com/achat-appartement/appartement-a-vendre-4-pieces-80m2-romainville-93230-moriss-immobilier/",
+    "price": 372000,
+    "size": 80,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -34,8 +35,55 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
+    ],
+    "roomsCount": 4,
+    "bedrooms": 3,
+    "offerType": "Disponible",
+    "districtArea": "Romainville",
+    "fullDescription": "emplacement exceptionnel / boulevard emile genevoix / proche commerces, marche, metro mairie des lilas l.11 à 15 mn a pied.dans un bel immeuble semi recent, au 2 eme etage sans ascenseur, un appartement de 4 pieces de 80 m2 ( 75 m2 loi carrez ) comprenant un entree, un sejour expose sud ouest donnant sur une terrasse de 14 m2 sans vis a vis, une cuisine independante amenagee et equipee, trois chambres, une salle de bain, un wc independant et des rangements.une cave complete ce bien.possibilite d’acquerir un box.appartement calme, lumineux, traversant, sans vis a vis et possedant une vue degagee.a visiter rapidement.exclusivite moriss immobilier",
+    "energyRatio": "D",
+    "constructionDate": "1970-01-01 00:00:00 +0100",
+    "offerViewCount": 7,
+    "agency": "Moriss Saint-mandé  "
+  },
+  {
+    "offerId": 24940,
+    "title": "appartement dernier étage",
+    "url": "https://www.morissimmobilier.com/achat-appartement/appartement-a-vendre-5-pieces-106m2-montreuil-93100-moriss-immobilier/",
+    "price": 785000,
+    "size": 106,
+    "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/0d711dbcc1e541aa9eb5c9e66995a57e-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/913db096ba384987993dff2d01e3bfff-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e8abad25955a49319d9033ffd7a87274-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/127ea80a67d9434289db3a8d038af5fd-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/5369e9d37af4449ab90d0f58592ea11b-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/cfe603e0ae3d431da721e235f1dd3f96-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/686748c27f324f0599d02f17858f0b1c-299x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/59ef131496d24786aa55aab2508becf9-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/5a858bb1f7ef4a2b98079a8a8988cf12-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/7d3f74a86f284162af436a677beeed3b-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/54dc4f07a3f5424eb9e12f0a8211d564-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/fcab5845e8804798a8b850300af090d5-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/9d5b64d80040415d96d88d56b6d292d1-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/98715a14d47240fc868beb943445b826-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/2928b2a97aa244cfb282950722347a5e-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/06fc79457b3c4886921ceafc08514a24-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/0b78eb0ffbad4cfda78f274a59c2e9bb-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/5962258463d94c40823258767f7e0b2c-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/d7619c07aa984ff7bf30bc8bb93f20c4-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/2678cb86977d438db52bbb26bdcc0016-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/57127f6682c14aee88cadf6d44be4a87-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/cf9f425602064ccba75bc8bc71ff5064-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 5,
     "bedrooms": 3,
@@ -44,7 +92,7 @@
     "fullDescription": "emplacement exceptionnel – avenue du president wilson/limite vincennesau 7eme et dernier etage avec ascenseur d’un bel immeuble semi recent de standing, appartement 5 pièces de 106m2 (101 loi carrez) comprenant une entrée, un double séjour donnant sur balcon filant plein ciel, une cuisine independante amenagee equipée, trois chambres donnant sur balcon filant, une salle de bains, wc independant, une buanderie (possibilité de creer une salle d’eau), dressing.balcons filant de 20m2 plein cielune cave et un parking complètent ce bien.appartement en double exposition, traversant, vue complètement degagee des 2 cotes a visiter rapidementexclusivite moriss immobilier",
     "energyRatio": "D",
     "constructionDate": "1970-01-01 00:00:00 +0100",
-    "offerViewCount": 7,
+    "offerViewCount": 11,
     "agency": "Moriss Saint-mandé  "
   },
   {
@@ -54,6 +102,7 @@
     "price": 462000,
     "size": 44,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -82,8 +131,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -92,7 +140,7 @@
     "fullDescription": "place jean gabin / au pied du sacré coeur",
     "energyRatio": "C",
     "constructionDate": "1880-01-01 00:00:00 +0100",
-    "offerViewCount": 1,
+    "offerViewCount": 28,
     "agency": "Moriss Réaumur  "
   },
   {
@@ -102,6 +150,7 @@
     "price": 365000,
     "size": 36,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -130,8 +179,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 2,
     "bedrooms": 1,
@@ -140,7 +188,7 @@
     "fullDescription": "faubourg du saint denis / chabrol:",
     "energyRatio": "A",
     "constructionDate": "1900-01-01 00:00:00 +0100",
-    "offerViewCount": 1,
+    "offerViewCount": 28,
     "agency": "Moriss Belleville  "
   },
   {
@@ -150,6 +198,7 @@
     "price": 365000,
     "size": 35,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -178,8 +227,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 2,
     "bedrooms": 1,
@@ -188,7 +236,7 @@
     "fullDescription": "emplacement exceptionnel / rue duhesme / a 2 mn du metro simplon l.4, des commerces, des ecoles et du marche.dans un bel immeuble ancien, au premier etage, un appartement de 2 pieces au calme de 35 m2 loi carrez comprenant une entree, un sejour, une cuisine americaine amenagee et equipee, une chambre, une salle de douche avec wc et des rangements.une cave complete ce bien.appartement calme, clair, bien agence et sans perte d’espace.a visiter rapidement.exclusivite moriss immobilier.",
     "energyRatio": "D",
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 1,
+    "offerViewCount": 21,
     "agency": "Moriss Réaumur  "
   },
   {
@@ -198,6 +246,7 @@
     "price": 126000,
     "size": 39,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -226,8 +275,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 2,
     "bedrooms": 1,
@@ -236,7 +284,7 @@
     "fullDescription": "avenue jean jaures/rue de la justicesitué au 4ème et dernier étage avec ascenseur d’un immeuble recent de standing, appartement 2 pièces de 39m2 (37m2 loi carrez) comprenant une entrée avec rangements, un séjour avec cuisine ouverte aménagée donnant sur terrasse plein ciel de 7m2, un cellier, une chambre, salle de bains, wc independant.un parking complète ce bienappartement tres lumineux, plein sud, vue degagee sans vis a vis, sans perte d’espace.a visiter rapidementexclusivite moriss immobilier",
     "energyRatio": "D",
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 5,
+    "offerViewCount": 8,
     "agency": "Moriss Saint-mandé  "
   },
   {
@@ -246,6 +294,7 @@
     "price": 309000,
     "size": 42,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -274,8 +323,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 2,
     "bedrooms": 1,
@@ -284,7 +332,7 @@
     "fullDescription": "bas montreuil – a proximite de vincennes, a 12 minutes a pied du metro berault (ligne 1) et 8 minutes a pied du metro croix de chavaux (ligne 9) et du rer a de vincennes, au 2 eme etage d’un immeuble très bien entretenu et sécurisé des années 1930, bel appartement d’angle lumineux et calme de 2 pieces d’une surface de 42 m2 comprenant :une entrée, un séjour avec cuisine américaine aménagée et équipée, une chambre, une salle de bains avec wc et un degagement.",
     "energyRatio": "E",
     "constructionDate": "1930-01-01 00:00:00 +0000",
-    "offerViewCount": 1,
+    "offerViewCount": 9,
     "agency": "Moriss Montreuil  "
   },
   {
@@ -294,6 +342,7 @@
     "price": 204000,
     "size": 16,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -322,8 +371,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 2,
     "bedrooms": 1,
@@ -332,7 +380,7 @@
     "fullDescription": "perle rare dans un immeuble ancien, un appartement parfaitement agencé; refait par architecte.situé au 3ème étage sans ascenseur, d’une surface de 15,50m2 lumineux, refait à neuf et meublé avec goût.il comprend une cuisine équipée ouverte sur séjour, une belle pièce de vie et une chambre avec bureau et rangements.une salle d’eau refaite à neuf avec w.c. copropriété et parties communes en très bon état.belle hauteur sous plafond (3 mètres)véritable coup de coeur",
     "energyRatio": null,
     "constructionDate": "1800-01-01 00:00:00 +0100",
-    "offerViewCount": 7,
+    "offerViewCount": 10,
     "agency": "Moriss Maubeuge  "
   },
   {
@@ -342,6 +390,7 @@
     "price": 485000,
     "size": 84,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -370,8 +419,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 4,
     "bedrooms": 2,
@@ -380,7 +428,7 @@
     "fullDescription": "salvador allende / mairie de saint ouen / marché de saint ouen",
     "energyRatio": null,
     "constructionDate": "2007-01-01 00:00:00 +0100",
-    "offerViewCount": 1,
+    "offerViewCount": 5,
     "agency": "Moriss Réaumur  "
   },
   {
@@ -390,6 +438,7 @@
     "price": 589000,
     "size": 106,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -418,8 +467,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 5,
     "bedrooms": 4,
@@ -428,7 +476,7 @@
     "fullDescription": "a 10mn a pied du rer a/avenue de lorraine au 3ème et dernier étage d’un immeuble semi recent de standing, appartement traversant 5 pièces de 106m2 (103m2 loi carrez) comprenant une entrée, un double séjour salle à manger sur balcon filant exposé sud ouest, une cuisine independante amenagee, 4 belles chambres avec rangements donnant sur balcon, une salle de bains, une salle d’eau, wc independant.distribution en étoile sans perte d’espace, excellent etat general refait à neuf recemment.appartement traversant, en double expositionune cave complète ce bien, et possibilité d’acquerir un emplacement de parkinga visiter rapidementexclusivite moriss immobilier",
     "energyRatio": "D",
     "constructionDate": "1970-01-01 00:00:00 +0100",
-    "offerViewCount": 1,
+    "offerViewCount": 4,
     "agency": "Moriss Saint-mandé  "
   },
   {
@@ -438,6 +486,7 @@
     "price": 319000,
     "size": 48,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -466,8 +515,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -476,7 +524,7 @@
     "fullDescription": "courbevoie 92400 // avenue marceau",
     "energyRatio": null,
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 3,
+    "offerViewCount": 6,
     "agency": "Moriss Voltaire  "
   },
   {
@@ -486,6 +534,7 @@
     "price": 929000,
     "size": 104,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -514,8 +563,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 4,
     "bedrooms": 3,
@@ -524,7 +572,7 @@
     "fullDescription": "emplacement exceptionnel / rare sur saint mande / avenue foch / a 1 mn du metro saint mande l.1, du bois, du marche, des ecoles et des commerces.dans un bel immeuble ancien de prestige, au deuxieme etage sans ascenseur, un appartement traversant de 4 pieces de 104 m2 loi carrez comprenant une entree, un sejour expose au sud,une salle a manger avec la possibilite de faire une troisieme chambre, deux grandes chambres de 17 m2,  une cuisine independante amenagee avec la possibilite de faire une cuisine ouverte sur la salle a manger, une salle de bain, un wc independant, un debarras, et un degagement.charme de l’ancien : parquet, moulures, cheminees, belle hauteur sous plafond 2.87mune cave complete ce bien.possibilite d’acquerir un emplacement de parking en sus.appartement calme, lumineux, traversant, sans vis a vis et possedant une vue degagee.a visiter rapidement.exclusivite moriss immobilier",
     "energyRatio": "D",
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 2,
+    "offerViewCount": 8,
     "agency": "Moriss Saint-mandé  "
   },
   {
@@ -534,6 +582,7 @@
     "price": 445000,
     "size": 46,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -562,8 +611,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 2,
     "bedrooms": 1,
@@ -572,7 +620,7 @@
     "fullDescription": "paris 75011 // rue jean pierre timbaud",
     "energyRatio": null,
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 4,
+    "offerViewCount": 6,
     "agency": "Moriss Voltaire  "
   },
   {
@@ -582,6 +630,7 @@
     "price": 1000,
     "size": 155,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -610,8 +659,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 7,
     "bedrooms": 5,
@@ -620,7 +668,7 @@
     "fullDescription": "vincennes : situé à 4 minutes à pied du rer a et 6 minutes du métro bérault (ligne1), dans une petite rue calme, au 1er étage d’une petite copropriété très bien entretenue, appartement traversant (est/ouest) de 7 pièces en duplex de 155 m2 habitable, comprenant : une entrée, un double séjour offrant un accès sur une terrasse filante de 14 m2, une cuisine dinatoire, aménagée et équipée, semi-ouverte sur le séjour, cinq chambres avec rangements dont deux suites parentales avec salles d’eau, une salle de bain, trois wc (dont deux indépendants) et un bel espace buanderie. deux caves et une place de parking complètent ce bien.il s’agit d’un bien rare sur le secteur, très recherché des familles voulant s’installer sur vincennes. il est à  proximité de toutes les écoles (collège hector berlioz), commodités (commerces, boulangeries, tabac, pharmacies) et transports etc.l’immeuble a été ravalé il y a 2 ans et des travaux sur la porte d’entrée des parties communes ont déja été voté. la copropriété bénéficie d’un jardin de plus de 200 m2, où picnics et petites fêtes d’anniversaires sont autorisés.",
     "energyRatio": "C",
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 1,
+    "offerViewCount": 4,
     "agency": "Moriss Montreuil  "
   },
   {
@@ -630,6 +678,7 @@
     "price": 698000,
     "size": 60,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -658,8 +707,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -668,7 +716,7 @@
     "fullDescription": "lorette-martyrs / rue rodiersitué rue rodier, à deux pas de la rue des martyrs. dans un très bel immeuble pierre de taille aux parties communes très bien entretenues, au 1er étage avec ascenseur. un appartement sur cour, en 3 pièces composé comme suit: un grand séjour, deux chambres, une cuisine équipée et aménagée ouverte sur le séjour, une salle de douche avec wc.bien avec le charme de l’ancien (parquet; moulures; cheminées). très belle hauteur sous plafond (3m).appartement calme, agréable, avec un fort potentiel.exclusivité moriss immobilier.",
     "energyRatio": "C",
     "constructionDate": "1900-01-01 00:00:00 +0100",
-    "offerViewCount": 5,
+    "offerViewCount": 15,
     "agency": "Moriss Maubeuge  "
   },
   {
@@ -678,6 +726,7 @@
     "price": 579000,
     "size": 60,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -706,8 +755,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -716,7 +764,7 @@
     "fullDescription": "clignancourt – château rouge:",
     "energyRatio": null,
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 2,
+    "offerViewCount": 5,
     "agency": "Moriss Belleville  "
   },
   {
@@ -726,6 +774,7 @@
     "price": 434000,
     "size": 48,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -754,8 +803,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -764,7 +812,7 @@
     "fullDescription": "métro saint mandé, au pied des commerces, du bois et des ecoles /rue de la prévoyance – au deuxième et dernier étage sans ascenseur d’un immeuble ancien sécurisé, un appartement traversant en tres bon état de 48 m2, comprenant un séjour exposé a l’ouest, une cuisine independante aménagée, deux chambres (dont une de 7 m2 avec grande fenêtre), une salle d’eau, des wc indépendants.une cave complète ce bien.appartement calme, lumineux, bien agence et possedant des rangements.a visiter très rapidementexclusivité moriss immobilier.",
     "energyRatio": "D",
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 3,
+    "offerViewCount": 2,
     "agency": "Moriss Saint-mandé  "
   },
   {
@@ -774,6 +822,7 @@
     "price": 804000,
     "size": 83,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -802,8 +851,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -822,6 +870,7 @@
     "price": 395000,
     "size": 50,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -850,8 +899,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -860,7 +908,7 @@
     "fullDescription": "villiers barbusse : à 10 minutes à pied du métro mairie de montreuil (ligne 9), dans une toute petite copropriété de deux lots, au 1er et dernier étage sans ascenseur, appartement traversant au plan idéal de 3 pièces d’une surface de 50 m2, comprenant : une entrée avec rangements, un séjour, une cuisine us aménagée et équipée, deux chambres, une salle d’eau avec wc. gros potentiel : comble aménageable de 50 m2 au sol (hauteur au faitage actuelle 1,80 m), possibilité de surélever la toiture afin de créer un réel étage supplémentaire et un toit terrasse (accord de la copropriété déjà demandé, un devis à titre informatif à été réalisé et se tient à votre disposition)",
     "energyRatio": "C",
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 2,
+    "offerViewCount": 8,
     "agency": "Moriss Montreuil  "
   },
   {
@@ -870,6 +918,7 @@
     "price": 375000,
     "size": 50,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -898,8 +947,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -908,7 +956,7 @@
     "fullDescription": "coup de coeur : quartier murs à pêches, à 5 minutes à pied du métro mairie de montreuil (ligne 9) et des commodités, dans une toute petite copropriété très bien entretenue, au 1er étage sans ascenseur, appartement 3 pièces d’une surface de 50 m2 environ, comprenant : une entrée sur le séjour offrant un accès sur une terrasse de 88 m2, une cuisine indépendante (possibilité us), deux chambres avec rangements et une salle d’eau avec wc. annexes : un parking et une cave complètent ce bien.",
     "energyRatio": "C",
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 3,
+    "offerViewCount": 9,
     "agency": "Moriss Montreuil  "
   },
   {
@@ -918,6 +966,7 @@
     "price": 255000,
     "size": 76,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -946,8 +995,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -956,7 +1004,7 @@
     "fullDescription": "emplacement exceptionnel / a 8 mn du metro créteil prefecture l.8 / rue de mesly proche, ecoles, marche et commerces.dans un bel immeuble semi-récent, au 1er etage sans ascenseur, un appartement traversant de trois pièces d’une surface de 76 m2 ( 72 m2 loi carrez)  comprenant une entree, un sejour expose a l’est donnant sur une terrasse de 4,86 m2 sans vis a vis, une cuisine indépendante aménagée et équipée, deux chambres donnant sur un balcon de 3 m2 et un balcon de 4 m2, une salle d’eau , un wc indépendant et des rangements. une cave complete ce bien.possibilite d’acquerir un emplacement de parking en sus appartement calme, lumineux, bien agencé, sans perte d’espace et possedant une vue degagee.a visiter rapidement.exclusivite moriss immobilier",
     "energyRatio": "D",
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 4,
+    "offerViewCount": 3,
     "agency": "Moriss Saint-mandé  "
   },
   {
@@ -966,6 +1014,7 @@
     "price": 389000,
     "size": 74,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -994,8 +1043,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -1004,7 +1052,7 @@
     "fullDescription": "emplacement exceptionnel / rue raspail / a 3 mn du metro maisons alfort stade l.8 / proche commerces, ecole et marche.comme une maison : appartement au 1er et dernier etage de 3 pieces de 74 m2 ( 58 m2 loi carrez ) comprenant une entree, un double sejour expose sud ouest avec la possibilite de faire une 2eme chambre, une cuisine independante amenagee et equipee, une chambre, une salle de douche avec wc, un debarras et des rangements.un sous sol amenagee de 27 m2 complete ce bien.au rdc, un jardin de 52 m2 sans vis a vis. deux dependances de 6 m2 et un emplacement de parking completent ce bien.a visiter rapidement.exclusivite moriss immobilier.",
     "energyRatio": "D",
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 4,
+    "offerViewCount": 5,
     "agency": "Moriss Saint-mandé  "
   },
   {
@@ -1014,6 +1062,7 @@
     "price": 364000,
     "size": 67,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -1042,8 +1091,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -1052,7 +1100,7 @@
     "fullDescription": "emplacement exceptionnel / place verdun / proche rer a joinville le pont, commerces, ecoles, marche.dans un bel immeuble recent, en rdc, un appartement de 3 pieces de 66 m2 ( 63 m2 loi carrez )  comprenant une entree, un sejour expose au sud donnant sur une terrasse sans vis a vis de 8 m2, deux chambres, une cuisine americaine amenagee et equipee, un cellier, une salle de bain avec wc et des rangements.possibilite d’acquerir un emplacement de parking en sus.appartement calme, lumineux, sans vis a vis, sans perte d’espace et possedant une vue degagee.a visiter rapidement.exclusivite moriss immobilier",
     "energyRatio": "D",
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 2,
+    "offerViewCount": 4,
     "agency": "Moriss Saint-mandé  "
   },
   {
@@ -1062,6 +1110,7 @@
     "price": 734000,
     "size": 97,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -1090,8 +1139,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 5,
     "bedrooms": 3,
@@ -1100,7 +1148,7 @@
     "fullDescription": "emplacement exceptionnel / rue agnes sorel / a proximite du rer a et du rer e /  proche des commerces, du bois, du marche et des ecoles.dans un bel immeuble recent de 2002, en 4 eme et dernier etage avec ascenseur,  duplex de 97 m2 loi carrez comprenant au 4 eme, une entree un double sejour de 32 m2 sans vis a vis avec une vue d’exception, une cuisine independante amenagee et equipee, une chambre, une salle de bain avec coin buanderie, un wc independant, un degagement et des rangements. au 5eme, deux chambres, une salle de bain avec wc, un degagement et des rangements.une cave commune avec armoire individuelle complete ce bien.possibilite d’acquerir en sus un grand emplacement de parking.appartement calme, lumineux, sans vis a vis, bien agence et possedant une vue degagee.a visiter rapidement.exclusivite moriss immobilier",
     "energyRatio": "D",
     "constructionDate": "2002-01-01 00:00:00 +0100",
-    "offerViewCount": 3,
+    "offerViewCount": 4,
     "agency": "Moriss Saint-mandé  "
   },
   {
@@ -1110,6 +1158,7 @@
     "price": 518000,
     "size": 92,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -1138,8 +1187,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 4,
     "bedrooms": 3,
@@ -1148,7 +1196,7 @@
     "fullDescription": "emplacement exceptionnel / rue parmentier / a 4 mn du rer de maisons alfort / proche ecoles et commerces.dans un bel immeuble semi-recent annee 90 de standing, au 1er etage avec ascenseur, un appartement au calme de 4 pieces de 92 m2 ( 90 m2 loi carrez ) comprenant une entree, un sejour expose sud ouest donnant sur une terrasse de 5 m2, une cuisine dinatoire independante amenagee et equipee avec possibilite de faire une cuisine ouverte sur le sejour,  3 chambres dont une avec une salle de douche, une salle de bain, un wc independant et des rangements.une cave complete ce bien.possibilite d’acquerir un emplacement de parking en sus.appartement calme, lumineux, traversant, sans vis a vis et possedant une vue degagee.a visiter rapidement.exclusivite moriss immobilier",
     "energyRatio": "D",
     "constructionDate": "1990-01-01 00:00:00 +0100",
-    "offerViewCount": 2,
+    "offerViewCount": 5,
     "agency": "Moriss Saint-mandé  "
   },
   {
@@ -1158,6 +1206,7 @@
     "price": 638000,
     "size": 71,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -1186,8 +1235,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -1206,6 +1254,7 @@
     "price": 622000,
     "size": 62,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -1234,8 +1283,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 3,
     "bedrooms": 2,
@@ -1244,7 +1292,7 @@
     "fullDescription": "boulevard de charonne / avron-nation",
     "energyRatio": null,
     "constructionDate": "1970-01-01 00:00:00 +0100",
-    "offerViewCount": 3,
+    "offerViewCount": 5,
     "agency": "Moriss Voltaire  "
   },
   {
@@ -1254,6 +1302,7 @@
     "price": 699000,
     "size": 80,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -1282,8 +1331,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 4,
     "bedrooms": 2,
@@ -1292,7 +1340,7 @@
     "fullDescription": "appartement coup de coeur,",
     "energyRatio": "E",
     "constructionDate": "1880-01-01 00:00:00 +0100",
-    "offerViewCount": 5,
+    "offerViewCount": 6,
     "agency": "Moriss Voltaire  "
   },
   {
@@ -1302,6 +1350,7 @@
     "price": 307000,
     "size": 82,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -1330,8 +1379,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 5,
     "bedrooms": 4,
@@ -1340,7 +1388,7 @@
     "fullDescription": "montreuil : à 9 minutes à pied du rer e du rosny sous bois, dans une copropriété des années 1970 bien entretenue et sécurisée par digicode avec espaces vert, au 4ème étage sur 4 sans ascenseur, appartement 4/5 pièces de 82 m2 carrez comprenant : une entrée, un séjour offrant un accès sur balcon, une cuisine séparée, aménagée et équipée (possibilité us), 4 chambres dont 3 avec balcon, une salle d’eau et wc indépendant.",
     "energyRatio": "C",
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 3,
+    "offerViewCount": 5,
     "agency": "Moriss Montreuil  "
   },
   {
@@ -1350,6 +1398,7 @@
     "price": 445000,
     "size": 34,
     "images": [
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/02a5bb5ff04543d08ce9f973ccb7127b-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
@@ -1378,8 +1427,7 @@
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
       "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
+      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg"
     ],
     "roomsCount": 1,
     "bedrooms": 1,
@@ -1388,55 +1436,7 @@
     "fullDescription": "rambuteau / beaubourg",
     "energyRatio": "D",
     "constructionDate": "0000-01-01 00:00:00 +0100",
-    "offerViewCount": 1,
-    "agency": "Moriss Réaumur  "
-  },
-  {
-    "offerId": 24318,
-    "title": "3 pièces aux arcades daumesnil",
-    "url": "https://www.morissimmobilier.com/achat-appartement/appartement-a-vendre-3-pieces-52m2-paris-75012-moriss-immobilier/",
-    "price": 579000,
-    "size": 52,
-    "images": [
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a94fcc2a963343c8b1d8d722a8107d54-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e21fb5f96fca49e385ec2081d4d2c59e-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/f365984275a9469abc58f97b58256d22-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/0d711dbcc1e541aa9eb5c9e66995a57e-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/913db096ba384987993dff2d01e3bfff-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/e8abad25955a49319d9033ffd7a87274-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/127ea80a67d9434289db3a8d038af5fd-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/5369e9d37af4449ab90d0f58592ea11b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/cfe603e0ae3d431da721e235f1dd3f96-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/686748c27f324f0599d02f17858f0b1c-299x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/59ef131496d24786aa55aab2508becf9-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/5a858bb1f7ef4a2b98079a8a8988cf12-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/7d3f74a86f284162af436a677beeed3b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/54dc4f07a3f5424eb9e12f0a8211d564-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/fcab5845e8804798a8b850300af090d5-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/9d5b64d80040415d96d88d56b6d292d1-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/98715a14d47240fc868beb943445b826-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/2928b2a97aa244cfb282950722347a5e-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/06fc79457b3c4886921ceafc08514a24-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/0b78eb0ffbad4cfda78f274a59c2e9bb-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/5962258463d94c40823258767f7e0b2c-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/d7619c07aa984ff7bf30bc8bb93f20c4-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/2678cb86977d438db52bbb26bdcc0016-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/57127f6682c14aee88cadf6d44be4a87-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/cf9f425602064ccba75bc8bc71ff5064-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/316c12cf625e49f388b959b78c8835b9-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/a1fc0ba621e4483ba7eb3601b3b50ae4-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/b179ab0e826448d4874f7833250c5485-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/6f6b49a9558f4e218bff7f4f85a7e12b-525x328.jpg",
-      "https://www.morissimmobilier.com/wp-content/uploads/2019/03/edf28a82b0fd4987a543f1bc4321666c-525x328.jpg"
-    ],
-    "roomsCount": 3,
-    "bedrooms": 1,
-    "offerType": "Archivé",
-    "districtArea": "Paris",
-    "fullDescription": "arcades daumesnil / hôpital saint-antoine",
-    "energyRatio": "C",
-    "constructionDate": "1940-01-01 00:00:00 +0000",
-    "offerViewCount": 1,
+    "offerViewCount": 4,
     "agency": "Moriss Réaumur  "
   }
 ]
