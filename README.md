@@ -31,4 +31,5 @@ $ open -a "Google Chrome" http://localhost:3000
 
 ## UML
 
-![](/erd.png)
+![
+](https://i.imgur.com/RPNfXJn.png)
