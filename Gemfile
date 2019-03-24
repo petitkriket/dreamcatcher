@@ -36,9 +36,10 @@ gem 'jbuilder', '~> 2.5'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
-# Scrapping
+# Scrapping and scheduling
 gem 'nokogiri'
 gem 'json'
+gem 'whenever', require: false
 
 # React on Raiiils baby
 gem 'webpacker'
