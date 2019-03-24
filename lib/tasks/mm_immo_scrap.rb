@@ -38,7 +38,8 @@ page.css('div#listing_ajax_container .col-md-6').collect do |place|
     agency = place.css('div div.property_agent_wrapper').text.split(/ |\_/).map(&:capitalize).join(" ").strip # cannot remove two spaces ?
     # loop trough carousel to get images
     
-    # !! contains 30 images, should update 5 FIXME Need refactoring !!
+    # !! contains 30 images, should update 5 FIXME Need refactoring into 3d array !!
+    # https://stackoverflow.com/a/14510514/3468846
     images = []
     page.css('div.carousel').collect do |img|
       images.push(
