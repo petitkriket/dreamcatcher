@@ -1,8 +1,9 @@
 # dreamcatcher
 
 Scrap classfields, save it and display it on a react dashboard
-to update json file
+to update json file.
 
+<b>Mention : it's a case study to learn scrapping, not a real project.</b>
 ## Install the app.
 
 To create mm_immo_data.json .json file in /lib/assets/
