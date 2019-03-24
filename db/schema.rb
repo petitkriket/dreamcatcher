@@ -24,7 +24,7 @@ ActiveRecord::Schema.define(version: 2019_03_23_173357) do
   end
 
   create_table "classfields", force: :cascade do |t|
-    t.string "offer_id"
+    t.string "offer_id", null: false, index: { unique: true }
     t.string "url"
     t.float "price"
     t.float "size"

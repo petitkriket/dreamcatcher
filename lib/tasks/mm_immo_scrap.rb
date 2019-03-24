@@ -24,7 +24,7 @@ properties = []
 # selects DOM elements and collects data
 # unique identifier, title, link, price, size in sqm, # rooms, # beddings, offer type, agency and pictures.
 page.css('div#listing_ajax_container .col-md-6').collect do |place|
-    id = place.attr('data-listid').strip.to_i
+    offer_id = place.attr('data-listid').strip.to_i
     title = place.css('div h4').text.strip.downcase
     url = place.css('div h4 a').attr('href').value
     price = place.css('div div.propery_price4_grid').text.to_i * 1000
@@ -37,6 +37,8 @@ page.css('div#listing_ajax_container .col-md-6').collect do |place|
     district_area =  place.css('div div.property_address_type4 span:first-child').text.gsub(/[\s,]/ ,"") 
     agency = place.css('div div.property_agent_wrapper').text.split(/ |\_/).map(&:capitalize).join(" ").strip # cannot remove two spaces ?
     # loop trough carousel to get images
+    
+    # !! contains 30 images, should update 5 FIXME Need refactoring !!
     images = []
     page.css('div.carousel').collect do |img|
       images.push(
@@ -82,7 +84,7 @@ page.css('div#listing_ajax_container .col-md-6').collect do |place|
 
     # push into an array
      properties.push(
-    id: id,
+    offerId: offer_id,
     title: title,
     url: url,
     price: price,
@@ -98,7 +100,7 @@ page.css('div#listing_ajax_container .col-md-6').collect do |place|
     offerViewCount: offer_view_count,
     agency: agency,
   ) 
-  puts "Scrapped offer n°#{id}"
+  puts "Scrapped offer n°#{offer_id}"
     # TODO iteration 2
     # scrap five last pages instead of one to get 30 * 5 results on each pass
 
