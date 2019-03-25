@@ -1,0 +1,127 @@
+/*
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ */
+
+$white: #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #6c757d !default;
+$gray-700: #212547 !default;
+$gray-800: #002b45 !default; //002b45
+$gray-900: #111324 !default;
+$black: #000 !default;
+
+$blue: #509cf6 !default;
+$indigo: #6610f2 !default;
+$purple: #7856ff !default;
+$pink: #f77270 !default;
+$red: #dc3545 !default;
+$orange: #fd7e14 !default;
+$yellow: #ffc107 !default;
+$green: #80bb35 !default;
+$teal: #74dfc6 !default;
+$cyan: #17a2b8 !default;
+
+$primary: $blue !default;
+$secondary: #f0e2d0 !default;
+$success: $green !default;
+$info: $teal !default;
+$warning: $yellow !default;
+$danger: $red !default;
+$light: $gray-100 !default;
+$dark: $gray-800 !default;
+
+$body-bg: $white !default;
+$body-color: $gray-900 !default;
+
+// Links
+
+$link-color: $pink !default;
+p a {
+  border-bottom: 1px dotted $link-color;
+  padding-bottom: 2px;
+}
+
+p a:hover {
+  border-bottom: 1px dotted lighten($link-color, 6%);
+  padding-bottom: 2px;
+}
+
+$link-decoration: none !default;
+$link-hover-color: lighten($link-color, 6%) !default;
+$link-hover-decoration: none !default;
+// lighten percentage for links with `.text-*` class (e.g. `.text-success`)
+$emphasized-link-hover-lighten-percentage: 15% !default;
+
+// The yiq lightness value that determines when the lightness of color changes from "dark" to "light". Acceptable values are between 0 and 255.
+$yiq-contrasted-threshold: 150 !default;
+
+// Customize the light and dark text colors for use in our YIQ color contrast function.
+$yiq-text-dark: $gray-900 !default;
+$yiq-text-light: $white !default;
+
+// Options
+$enable-caret: true !default;
+$enable-rounded: true !default;
+$enable-shadows: false !default;
+$enable-gradients: false !default;
+$enable-transitions: true !default;
+$enable-responsive-font-sizes: false !default;
+
+// Typography
+
+// @import url("https://fonts.googleapis.com/css?family=Karla|Rubik:500");
+// $font-family-sans-serif: "Karla", Arial, sans-serif !default;
+// $headings-font-family: "Rubik", Arial, sans-serif !default;
+
+@import url("https://fonts.googleapis.com/css?family=Domine:700|Roboto");
+$font-family-sans-serif: "Roboto", sans-serif !default;
+$headings-font-family: "Domine", serif !default;
+$headings-font-weight: 700 !default;
+
+// stylelint-disable value-keyword-case
+$font-family-sans-serif: "Graphik Web", Helvetica, sans-serif,
+  "Noto Color Emoji" !default;
+$font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+  "Liberation Mono", "Courier New", monospace !default;
+$font-family-base: $font-family-sans-serif !default;
+// stylelint-enable value-keyword-case
+
+$font-size-base: 1rem !default;
+$font-size-lg: $font-size-base * 1.25 !default;
+$font-size-sm: $font-size-base * 0.875 !default;
+
+$font-weight-lighter: lighter !default;
+$font-weight-light: 300 !default;
+$font-weight-normal: 400 !default;
+$font-weight-bold: 700 !default;
+$font-weight-bolder: bolder !default;
+
+$headings-font-weight: 500 !default;
+$headings-line-height: 1.2 !default;
+
+$display1-size: 6rem !default;
+$display2-size: 5.5rem !default;
+$display3-size: 4.5rem !default;
+$display4-size: 3.5rem !default;
+
+$display1-weight: 300 !default;
+$display2-weight: 300 !default;
+$display3-weight: 300 !default;
+$display4-weight: 300 !default;
+
+$lead-font-size: $font-size-base * 1.25 !default;
+$lead-font-weight: 300 !default;
+
+$small-font-size: 80% !default;
+
+$text-muted: $gray-600 !default;
+
+// slim it down importing only used components
+// https://github.com/twbs/bootstrap-rubygem/blob/master/assets/stylesheets/_bootstrap.scss
+
+@import "bootstrap";
