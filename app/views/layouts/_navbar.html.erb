@@ -1,0 +1,31 @@
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">            
+  <div class="container-fluid">
+    <%= link_to root_path, class: 'navbar-brand mb-0 h1' do %>
+      <%= image_tag('karakasa.png', alt: 'rss feed', class: 'navbar-brand', height: '42px') %> 
+      <%= image_tag('karakasa_bis.png', alt: 'rss feed', class: 'navbar-brand', height: '42px') %>
+
+      Karacasa
+    <% end %>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbar">
+      <ul class="navbar-nav mr-auto">
+
+      <li class="nav-item <%= active_class(classfields_path) %>">
+        <%= link_to "Classfields", classfields_path, class: 'nav-link' %>
+      </li>
+
+      <li class="nav-item <%= active_class('') %>">
+        <%= link_to "About", '', class: 'nav-link' %>
+      </li>
+
+      </ul>
+      <form class="form-inline my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="text" placeholder="Search">
+        <button class="btn btn-outline-light my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
+      </form>
+    </div>
+  </div>
+</nav>
