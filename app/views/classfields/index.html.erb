@@ -1,53 +1,58 @@
 <p id="notice"><%= notice %></p>
+<div class="row">
+  <div class="col-4 m-5">
+    <h1>Classfields</h1>
+    <hr/>
+  </div>
+  <div class="col-12 table-responsive">
+    <table class="table border-top-0">
+      <thead class="thead bg-muted">
+        <tr>
+          <th scope="col">Price</th>
+          <th scope="col">Size</th>
+          <th scope="col">Rooms</th>
+          <th scope="col">Bedrooms</th>
+          <th scope="col">Offer type</th>
+          <th scope="col">Description</th>
+          <th scope="col">Energy ratio</th>
+          <th scope="col">Construction date</th>
+          <th scope="col">Rate</th>
+          <th scope="col" colspan="2"></th>
+        </tr>
+      </thead>
 
-<h1>Classfields</h1>
+      <tbody>
+        <% @classfields.each do |classfield| %>
+          <tr>
+            <th scope="row"><%= truncate(classfield.price.to_s, length: 3, omission: "") %><span class="text-muted small"> k€</span></th>
+            <th><%= classfield.size.to_i %><span class="text-muted small"> m2</span></th>
+            <th><%= classfield.rooms_count %></th>
+            <th><%= classfield.bedrooms %></th>
+            <th><%= classfield.offer_type %></th>
+            <th><%= classfield.district_area %></th>
+            <th class="d-none d-lg-table-cell"><%= classfield.energy_ratio %></th>
+            <th>
+            <% if classfield.construction_date.strftime("%Y").to_i + 1 != 0 %>
+            <%= classfield.construction_date.strftime("%Y").to_i + 1 %>
+            <% else %>
+              <span class="text-muted">-</span>
+            <% end %>
+            </th>
 
-<table>
-  <thead>
-    <tr>
-      <th>Offer</th>
-      <th>Url</th>
-      <th>Price</th>
-      <th>Size</th>
-      <th>Rooms count</th>
-      <th>Bedrooms</th>
-      <th>Offer type</th>
-      <th>District area</th>
-      <th>Full description</th>
-      <th>Energy ratio</th>
-      <th>Construction date</th>
-      <th>Offer view count</th>
-      <th>Agency</th>
-      <th>Origin</th>
-      <th colspan="3"></th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <% @classfields.each do |classfield| %>
-      <tr>
-        <td><%= classfield.offer_id %></td>
-        <td><%= classfield.url %></td>
-        <td><%= classfield.price %></td>
-        <td><%= classfield.size %></td>
-        <td><%= classfield.rooms_count %></td>
-        <td><%= classfield.bedrooms %></td>
-        <td><%= classfield.offer_type %></td>
-        <td><%= classfield.district_area %></td>
-        <td><%= classfield.full_description %></td>
-        <td><%= classfield.energy_ratio %></td>
-        <td><%= classfield.construction_date %></td>
-        <td><%= classfield.offer_view_count %></td>
-        <td><%= classfield.agency %></td>
-        <td><%= classfield.origin %></td>
-        <td><%= link_to 'Show', classfield %></td>
-        <td><%= link_to 'Edit', edit_classfield_path(classfield) %></td>
-        <td><%= link_to 'Destroy', classfield, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-      </tr>
-    <% end %>
-  </tbody>
-</table>
-
-<br>
-
-<%= link_to 'New Classfield', new_classfield_path %>
+            <th>
+            <% if classfield.offer_view_count < 2 && classfield.offer_type == "Disponible" %>
+            <span class="text-danger"><i class="fas fa-fire"></i></span>
+            <% else %>
+              - 
+            <% end %>
+            </th>
+            </th>
+            <th><%= link_to 'Show', classfield, class: 'btn btn-sm btn-outline-dark' %> &nbsp; <span class="text-muted small"><%= classfield.offer_view_count %> <i class="fas fa-eye"></i></span>
+            <% link_to "See offer", classfield.url, target: '_blank', class: 'btn btn-warning btn-xs' %>
+            </th>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+  </div>
+</div>

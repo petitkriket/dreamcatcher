@@ -80,10 +80,6 @@ $enable-responsive-font-sizes: false !default;
 
 // Typography
 
-// @import url("https://fonts.googleapis.com/css?family=Karla|Rubik:500");
-// $font-family-sans-serif: "Karla", Arial, sans-serif !default;
-// $headings-font-family: "Rubik", Arial, sans-serif !default;
-
 @import url("https://fonts.googleapis.com/css?family=Domine:700|Roboto");
 $font-family-sans-serif: "Roboto", sans-serif !default;
 $headings-font-family: "Domine", serif !default;
@@ -152,6 +148,14 @@ $jumbotron-bg: $secondary !default;
 ::-moz-selection {
   background: lighten($link-color, 15%); /* Gecko Browsers */
 }
+
+$spacer: 0.5rem !default;
+$navbar-padding-y: $spacer / 10 !default;
+$navbar-padding-x: $spacer !default;
+
+$box-shadow-sm: 0 0.125rem 0.25rem rgba($black, 0.05) !default;
+$box-shadow: 0 0.5rem 1rem rgba($black, 0.1) !default;
+$box-shadow-lg: 0 1rem 3rem rgba($black, 0.1) !default;
 // slim it down importing only used components
 // https://github.com/twbs/bootstrap-rubygem/blob/master/assets/stylesheets/_bootstrap.scss
 

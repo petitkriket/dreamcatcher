@@ -4,7 +4,7 @@ class ClassfieldsController < ApplicationController
   # GET /classfields
   # GET /classfields.json
   def index
-    @classfields = Classfield.all
+    @classfields = Classfield.all.order('created_at DESC')
   end
 
   # GET /classfields/1
