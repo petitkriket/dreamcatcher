@@ -1,5 +1,6 @@
 class ClassfieldsController < ApplicationController
-  before_action :set_classfield, only: [:show, :edit, :update, :destroy]
+  before_action :set_classfield, only: [:show]
+  before_action :redirect_user, only: [ :new, :edit, :destroy]
 
   # GET /classfields
   # GET /classfields.json
@@ -60,6 +61,10 @@ class ClassfieldsController < ApplicationController
       format.json { head :no_content }
     end
   end
+
+def redirect_user
+  redirect_to classfields_path
+end
 
   private
     # Use callbacks to share common setup or constraints between actions.

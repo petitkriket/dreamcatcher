@@ -1,10 +1,10 @@
 class ClassfieldImagesController < ApplicationController
-  before_action :set_classfield_image, only: [:show, :edit, :update, :destroy]
+  before_action :redirect_user, only: [ :index, :show, :new, :edit, :update, :destroy]
 
   # GET /classfield_images
   # GET /classfield_images.json
   def index
-    @classfield_images = ClassfieldImage.all
+    @classfield_images = ClassfieldImage.all.order('created_at DESC').limit('25')
   end
 
   # GET /classfield_images/1
@@ -60,6 +60,10 @@ class ClassfieldImagesController < ApplicationController
       format.json { head :no_content }
     end
   end
+
+def redirect_user
+  redirect_to root_path
+end
 
   private
     # Use callbacks to share common setup or constraints between actions.
