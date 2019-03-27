@@ -17,11 +17,11 @@ $ bundle install && rails db:create && rails db:migrate
 The following commands creates a json with the last 30 offers located (/lib/assets/mm_immo_data.json) and seed new results into DB.
 
 ```
-$ rake classfield:mm_scraper && rake db:seed
+$ rake classfield:mm_scraper
 ```
 
 Tasks are automated via Heroku Scheduler add-on on production, scrapping is done every 10 minutes and seeding hourly.
-Whenever gem does it on a development environment too but need some work ATM.
+In development env, CRON scheduling via Whenever gem does need some work ATM (erroring right now).
 
 ## Demo
 
