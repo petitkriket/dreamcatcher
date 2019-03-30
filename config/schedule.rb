@@ -12,10 +12,11 @@ set :output, {:error => 'log/mm_immo_scrap.error.log', :standard => 'log/mm_immo
 # 	command "echo 'llamas can run command too'"
 # end
 
-every 1.minute do 	
+every 120.minute do 
+	# FIXME scrap does not work locally
+	
 	#command "echo 'db seed has been ran and will be ran again in 5 mins'", , environment: Rails.env
 	#rake 'classfield:mm_scraper', environment: Rails.env # not working
-	#	command "../../lib/tasks/mm_immo_scrap.rb"
-	command "lib/tasks/mm_immo_scrap.rb"
+	#command "lib/tasks/mm_immo_scrap.rb"
 
  end
